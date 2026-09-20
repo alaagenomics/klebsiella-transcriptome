@@ -16,3 +16,14 @@ results/qc/
 
 # OS files
 .DS_Store
+
+# Temporary featureCounts test outputs
+results/counts_test.txt
+results/counts_test.txt.summary
+results/counts_test_pairs.txt
+results/counts_test_pairs.txt.summary
+
+# Per-sample gene coverage tables
+results/coverage/*.tsv
+results/coverage/redox/*.tsv
+results/coverage/sulp_cluster/*.tsv

@@ -1,0 +1,13 @@
+sample,strain,treatment
+SRR35308242,NK01067,control
+SRR35308243,NK01067,control
+SRR35308244,NK01067,control
+SRR35308239,NK01067,meropenem
+SRR35308240,NK01067,meropenem
+SRR35308241,NK01067,meropenem
+SRR35308236,dwbbM,control
+SRR35308237,dwbbM,control
+SRR35308238,dwbbM,control
+SRR35308233,dwbbM,meropenem
+SRR35308234,dwbbM,meropenem
+SRR35308235,dwbbM,meropenem
